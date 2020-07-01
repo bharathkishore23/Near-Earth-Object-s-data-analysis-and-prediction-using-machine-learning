@@ -98,5 +98,7 @@ plt.ylabel("Close-Approach in LD")
 plt.title("NEO:(2019 BE5)")
 plt.show()
 print("NEO:(2019 BE5)")
-print("Analysed:likely to enter earth's atmosphere in between 2440-2450")
+print("Analysed:likely to enter earth's atmosphere in 2433")
+p = y_predictnew = lm.predict([[2433, a, 25.1]])
+print(p)
 
