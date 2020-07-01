@@ -28,5 +28,5 @@ Top_ten_the_largest_Asteroids
 9             4953 (1990 MU)  [2.7 km -  5.9 km]       [2027-Jun-06]
 10            4953 (1990 MU)  [2.7 km -  5.9 km]       [2027-Jun-06]
 
-Prediction of asteroid (2019 BE5) one of the most visited asteroids among 9517 asteroids or NEO's, that could probably enter into the earth's atmosphere in between 2440-2450.
+Prediction of asteroid (2019 BE5) one of the most visited asteroids among 9517 asteroids or NEO's, that could possibly enter into the earth's atmosphere in 2433.
 Linear Regression, Machine learning Algorithm can best fit the data.
